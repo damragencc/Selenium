@@ -22,7 +22,7 @@ public class C07_XPATH {
         //acılan ürün sayfasinda, urun isminde
         //case sensitive olmadan phone gectigini test edin
         //sayfayi kapatin
-
+//
 
         //gerekli ayarlari yapin
         System.setProperty("Webdrive.chrome.drive","src/Kurulum Dosyalari/chromedriver");
